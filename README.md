@@ -3,4 +3,4 @@
 </div>
 
 ---
-<img src="https://img.oriondev.fr/1_1687957058546.png" style="width: 50%; height: 50%;">
+<img src="https://img.oriondev.fr/1_1687957058546.png" style="width: 30%; height: 30%;">
