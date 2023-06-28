@@ -24,3 +24,6 @@ Je m'interesse au nouvelle technologie comme l'IA :robot:.
   <img src="https://img.oriondev.fr/1_1687961168497.png" style="height: 128px; margin-right: 50px;">
   <img src="https://img.oriondev.fr/1_1687962133813.png" style="height: 128px; margin-right: 50px;">
 </div>
+
+---
+<img src="https://img.oriondev.fr/1_1687962715519.png" style="width: 65%; height: 65%;">
