@@ -10,9 +10,17 @@ Je m'interesse au nouvelle technologie comme l'IA :robot:.
 ---
 <img src="https://img.oriondev.fr/1_1687959083051.png" style="width: 65%; height: 65%;">
 <div style="display: flex; flex-direction: row;">
-  <img src="https://img.oriondev.fr/1_1687959244661.png" style="height: 128px;">
-  <img src="https://img.oriondev.fr/1_1687959415425.png" style="height: 128px;">
-  <img src="https://img.oriondev.fr/1_1687959584325.png" style="height: 128px;">
-  <img src="https://img.oriondev.fr/1_1687960693469.png" style="height: 128px;">
-  <img src="https://img.oriondev.fr/1_1687960798429.png" style="height: 128px;">
+  <img src="https://img.oriondev.fr/1_1687959244661.png" style="height: 128px; margin-right: 50px;">
+  <img src="https://img.oriondev.fr/1_1687959415425.png" style="height: 128px; margin-right: 50px;">
+  <img src="https://img.oriondev.fr/1_1687959584325.png" style="height: 128px; margin-right: 50px;">
+  <img src="https://img.oriondev.fr/1_1687960693469.png" style="height: 128px; margin-right: 50px;">
+  <img src="https://img.oriondev.fr/1_1687960798429.png" style="height: 128px; margin-right: 50px;">
+</div>
+
+---
+<img src="https://img.oriondev.fr/1_1687960998268.png" style="width: 65%; height: 65%;">
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.oriondev.fr/1_1687961096862.png" style="height: 128px; margin-right: 50px;">
+  <img src="https://img.oriondev.fr/1_1687961168497.png" style="height: 128px; margin-right: 50px;">
+  <img src="https://img.oriondev.fr/1_1687962133813.png" style="height: 128px; margin-right: 50px;">
 </div>
