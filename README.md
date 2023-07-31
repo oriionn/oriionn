@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/docker-%23323330?style=for-the-badge&logo=docker)
 
 ## 📌 Pinned Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oriionn&repo=scolengo-token-tauri)](https://github.com/oriionn/scolengo-token-tauri)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oriionn&repo=scolengo-token-tauri&hide_border=false&theme=dark)](https://github.com/oriionn/scolengo-token-tauri)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=oriionn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
