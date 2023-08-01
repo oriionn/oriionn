@@ -21,6 +21,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oriionn&repo=scolengo-token-tauri&hide_border=false&theme=dark)](https://github.com/oriionn/scolengo-token-tauri)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oriionn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oriionn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=oriionn&theme=dark&hide_border=false)
+![](github-metrics.svg)
