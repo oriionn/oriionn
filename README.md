@@ -8,7 +8,7 @@
 ![Discord status](https://dcbadge.vercel.app/api/shield/902671568856047636?compact=true&theme=blurple)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/orion_offi)
 
-## 💻 Programming Language & Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python)
 ![Rust](https://img.shields.io/badge/rust-%23323330?style=for-the-badge&logo=rust)
