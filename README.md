@@ -5,7 +5,7 @@
 ##### Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tauri](https://github.com/oriionn/scolengo-token-tauri) qui a été fait sans trop de compétence en [Rust](https://www.rust-lang.org/fr).
 
 ## 🌐 Socials:
-[![Discord](https://dcbadge.vercel.app/api/shield/902671568856047636?compact=true&theme=blurple)](https://discord.com/users/902671568856047636)
+[![Discord](https://dismd.oriondev.fr/api/902671568856047636)](https://discord.com/users/902671568856047636)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/orion_offi)
 
 ## 💻 Tech Stack:
