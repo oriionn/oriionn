@@ -41,7 +41,7 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            366 Commits
+                            369 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="542.6299957026214" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="542.6299957026214" y="0" width="213.12496392126175" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="755.7549596238831" y="0" width="69.08748051748135" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="824.8424401413645" y="0" width="63.63875722376515" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="888.4811973651297" y="0" width="18.19535754831344" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="906.6765549134432" y="0" width="8.96638423695874" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="915.642939150402" y="0" width="3.1894246002475803" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="918.8323637506495" y="0" width="1.1676362493505827" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="543.0896233402974" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="543.0896233402974" y="0" width="212.86538281364486" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="755.9550061539423" y="0" width="69.00333361894245" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="824.9583397728848" y="0" width="63.561246739852" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="888.5195865127367" y="0" width="18.173196038094385" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="906.6927825508311" y="0" width="8.95546339545465" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="915.6482459462857" y="0" width="3.185539957382849" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="918.8337859036685" y="0" width="1.1662140963314176" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>58.98%</div>
+                                <div>59.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>23.17%</div>
+                                <div>23.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>7.51%</div>
+                                <div>7.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -310,7 +310,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>6.92%</div>
+                                <div>6.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oriionn/qik-test</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test for Qik</div>
@@ -450,7 +450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prayag17/JellySkin</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -507,7 +507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awesome-jellyfin/awesome-jellyfin</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)</div>
@@ -528,7 +528,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        435
+                                        436
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
