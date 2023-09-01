@@ -5,10 +5,10 @@
 ##### Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tauri](https://github.com/oriionn/scolengo-token-tauri) qui a été fait sans trop de compétence en [Rust](https://www.rust-lang.org/fr).
 
 ## 🌐 Socials:
-[![Discord](https://dismd.oriondev.fr/api/902671568856047636)](https://discord.com/users/902671568856047636)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/orion_offi)
+[![Discord](https://dismd.oriondev.fr/api/902671568856047636)](https://discord.oriondev.fr)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.oriondev.fr)
 [![Bento](https://img.shields.io/badge/Bento-%23FF8686.svg?logo=Bento&logoColor=white&style=for-the-badge)](https://bento.oriondev.fr)
-[![Kofi](https://img.shields.io/badge/Kofi-%23FF5C5D.svg?logo=Kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/orion_off)
+[![Kofi](https://img.shields.io/badge/Kofi-%23FF5C5D.svg?logo=Kofi&logoColor=white&style=for-the-badge)](https://kofi.oriondev.fr)
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
