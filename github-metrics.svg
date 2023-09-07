@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            460 Commits
+                            462 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="471.5182051056455" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="471.5182051056455" y="0" width="310.9533952080534" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="782.4716003136989" y="0" width="54.54339912612454" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="837.0149994398236" y="0" width="53.366509289753076" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="890.3815087295766" y="0" width="15.03227819697834" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="905.413786926555" y="0" width="7.078808931683144" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="912.492595858238" y="0" width="4.989407282548632" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="917.4820031407867" y="0" width="2.5179968592133855" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="471.52327891016955" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="471.52327891016955" y="0" width="310.95674124374466" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="782.4800201539141" y="0" width="54.54398604417404" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="837.0240061980882" y="0" width="53.35718381964779" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="890.3811900177359" y="0" width="15.032439952856045" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="905.413629970592" y="0" width="7.078885103700244" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="912.4925150742922" y="0" width="4.989460971413597" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="917.4819760457058" y="0" width="2.5180239542941636" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lolocomotive/Klient</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial flutter client for the Skolengo / Kosmos / K-d'école education management system (ENT)</div>
@@ -2421,10 +2421,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.262295081967213 0,3.262295081967213 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.262295081967213 1.7,4.262295081967213 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.426229508196721)">
+                            <g transform="translate(-8.5, 9.327868852459016)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5737704918032787 0,2.5737704918032787 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5737704918032787 1.7,3.5737704918032787 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6721311475409832 0,2.6721311475409832 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6721311475409832 1.7,3.6721311475409832 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.426229508196721)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
