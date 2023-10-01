@@ -3,7 +3,6 @@
 #### Je suis Orion, étudiant à un lycée dépendant de l'Académie de Strasbourg. Actuellement en seconde, je compte prendre NSI et Maths l'année prochaine, la dernière spé, je ne sais pas.
 ##### Je touche à l'informatique depuis tout petit et je bricole souvent des projets. La plupart de mes projets ne sont pas trop fini et ne sont pas sur GitHub mais je mets quand même quelques projets sur GitHub.
 ##### Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tauri](https://github.com/oriionn/scolengo-token-tauri) qui a été fait sans trop de compétence en [Rust](https://www.rust-lang.org/fr).
-a
 
 ## 🌐 Socials:
 [![Discord](https://dismd.oriondev.fr/api/902671568856047636)](https://discord.oriondev.fr)
