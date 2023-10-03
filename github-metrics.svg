@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            563 Commits
+                            564 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="472.434011510377" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="472.434011510377" y="0" width="308.8941775953209" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="781.3281891056979" y="0" width="54.18219796263938" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="835.5103870683372" y="0" width="53.83974129632273" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="889.3501283646599" y="0" width="15.895311278798737" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="905.2454396434587" y="0" width="7.031931141461439" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="912.2773707849201" y="0" width="5.221307213131865" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="917.498677998052" y="0" width="2.501322001947949" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="472.36985628756827" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="472.36985628756827" y="0" width="308.85223062642126" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="781.2220869139895" y="0" width="54.174840171079346" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="835.3969270850689" y="0" width="53.95736344678478" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="889.3542905318537" y="0" width="15.893152739803106" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="905.2474432716568" y="0" width="7.030976224799715" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="912.2784194964565" y="0" width="5.220598174156155" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="917.4990176706127" y="0" width="2.50098232938746" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>51.35%</div>
+                                <div>51.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>33.58%</div>
+                                <div>33.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -310,7 +310,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>5.85%</div>
+                                <div>5.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>johan-perso/ecocast</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EcoCast vous permet de lancer des "applications" TV sur un ordinateur.</div>
