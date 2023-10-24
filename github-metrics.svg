@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            710 Commits
+                            711 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.8502244918943" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.8502244918943" y="0" width="322.61419219639737" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="782.4644166882916" y="0" width="53.95521913052845" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="836.4196358188201" y="0" width="52.73899695944457" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="889.1586327782646" y="0" width="15.471922600482767" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="904.6305553787473" y="0" width="7.852515924970256" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="912.4830713037177" y="0" width="5.082232090834757" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="917.5653033945524" y="0" width="2.4346966054475394" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460.282079100503" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="460.282079100503" y="0" width="322.91716568272443" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="783.1992447832274" y="0" width="53.14189903202627" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="836.3411438152538" y="0" width="52.7885252138137" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="889.1296690290675" y="0" width="15.48645259464867" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="904.6161216237161" y="0" width="7.8598903808490554" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="912.4760120045652" y="0" width="5.087004917362941" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="917.5630169219281" y="0" width="2.436983078071943" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>49.98%</div>
+                                <div>50.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>35.07%</div>
+                                <div>35.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>5.86%</div>
+                                <div>5.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -310,7 +310,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>5.73%</div>
+                                <div>5.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aomitsu/echapp_city_builder</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new project.</div>
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oriionn/wisprovident</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Improvident mais pour Wispy</div>
@@ -2894,7 +2894,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.150000000000006 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.666666666666664 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2916,7 +2916,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 299 times</div>
+                                <div class="text">Repositories have been deployed 300 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3029,7 +3029,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 762k out of 122m users</span>
+                                    <span class="gh">ranked 763k out of 122m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -3116,7 +3116,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.34m out of 86.7m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 80.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3344,7 +3344,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">99ae4214</span>
-                            <span class="code">src-tauri/Cargo.lock</span>
+                            <span class="code">src-tauri/tauri.conf.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3355,7 +3355,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3626,7 +3626,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[[package]]<br /></span><span class="token prefix unchanged">·</span><span class="token line">name = "wisprovident"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version = "0.1.1"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version = "0.2.1"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dependencies = [<br /></span><span class="token prefix unchanged">·</span><span class="token line">"serde",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"serde_json",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,7 +8,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">"package": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "productName": "wisprovident",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "version": "0.1.1"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "version": "0.2.1"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">"tauri": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "allowlist": {</span></span></code>
                         </div>
                     </section>
                 </div>
