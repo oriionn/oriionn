@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            782 Commits
+                            783 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.71295510599697" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.71295510599697" y="0" width="318.40652322348996" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="774.1194783294869" y="0" width="54.0136164723644" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="828.1330948018514" y="0" width="51.74840813865573" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="879.8815029405071" y="0" width="15.588500764778052" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="895.4700037052851" y="0" width="11.838199747896486" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="907.3082034531816" y="0" width="7.705023273634405" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="915.013226726816" y="0" width="4.986773273184005" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.71131308945803" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.71131308945803" y="0" width="318.40537594696116" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="774.1166890364191" y="0" width="54.016736778575485" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="828.1334258149946" y="0" width="51.74822167974321" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="879.8816474947378" y="0" width="15.588444596578778" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="895.4700920913166" y="0" width="11.838157092712866" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="907.3082491840294" y="0" width="7.704995511036246" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="915.0132446950656" y="0" width="4.986755304934257" height="8" fill="#fcb32c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eugeny/tabby</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal for a more modern age</div>
@@ -365,7 +365,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        51.8k
+                                        51.9k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eigilnikolajsen/commit-mono</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Commit Mono is an anonymous and neutral programming typeface.</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dominikwilkowski/cfonts</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sexy fonts for the console</div>
@@ -497,7 +497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/hubot-sans</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hubot Sans, a variable font from GitHub</div>
@@ -2840,7 +2840,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.85 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="73.36666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2862,7 +2862,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 341 times</div>
+                                <div class="text">Repositories have been deployed 342 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2900,7 +2900,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.48m out of 125m users</span>
+                                    <span class="gh">ranked 1.49m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 30 public repositories</div>
                             </div>
@@ -3141,7 +3141,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.35m out of 74.2m repositories</span>
+                                    <span class="gh">ranked 3.35m out of 59.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3458,7 +3458,7 @@ feat(sent/+page.svelte): create new sent page component
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">7662f28c</span>
-                            <span class="code">src/components/Socials.svelte</span>
+                            <span class="code">src/components/Stars.svelte</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3469,7 +3469,7 @@ feat(sent/+page.svelte): create new sent page component
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -22,7 +22,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> &lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;style&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;style lang="postcss"&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   .icon {<br /></span><span class="token prefix unchanged">·</span><span class="token line">       width: 32px !important;<br /></span><span class="token prefix unchanged">·</span><span class="token line">       height: 32px !important;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -15,7 +15,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> {/each}<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;style&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;style lang="postcss"&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   .stars {<br /></span><span class="token prefix unchanged">·</span><span class="token line">       position: fixed;<br /></span><span class="token prefix unchanged">·</span><span class="token line">       top: 0;</span></span></code>
                         </div>
                     </section>
                 </div>
