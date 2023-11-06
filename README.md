@@ -14,6 +14,7 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 
 ## 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
+
 ![Rust](https://img.shields.io/badge/rust-%23323330?style=for-the-badge&logo=rust)
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js)
 ![NextJS](https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=next.js)
