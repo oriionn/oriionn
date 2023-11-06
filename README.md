@@ -24,6 +24,12 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 ## 📌 Pinned Projects
 [![Readme Card](https://grs.oriondev.fr/api/pin/?username=oriionn&repo=scolengo-token-tauri&hide_border=false&theme=dark)](https://github.com/oriionn/scolengo-token-tauri)
 
+## My portfolio insight
+### On computer
+![](https://pagespeed-insights.herokuapp.com?url=https://oriondev.fr&theme=dark)
+### On mobile
+![](https://pagespeed-insights.herokuapp.com?url=https://oriondev.fr&theme=dark&strategy=mobile)
+
 ## 📊 GitHub Stats:
 ![](github-metrics.svg)
 
