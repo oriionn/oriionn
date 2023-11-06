@@ -6,6 +6,8 @@ Je touche à l'informatique depuis tout petit et je bricole souvent des projets.
 
 Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tauri](https://github.com/oriionn/scolengo-token-tauri) qui a été fait sans trop de compétence en [Rust](https://www.rust-lang.org/fr).
 
+[![My birthday](https://dday-widget.minung.dev/widget?text=My%20birthday%20%F0%9F%8E%82&date=2023-11-11&startDate=2023-01-01&theme=theme3)](https://dday-widget.minung.dev)
+
 ## 🌐 Socials:
 [![Discord](https://dismd.oriondev.fr/api/902671568856047636)](https://discord.oriondev.fr)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.oriondev.fr)
