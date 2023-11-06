@@ -13,13 +13,10 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 [![Kofi](https://img.shields.io/badge/Kofi-%23FF5C5D.svg?logo=Kofi&logoColor=white&style=for-the-badge)](https://kofi.oriondev.fr)
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 ![Rust](https://img.shields.io/badge/rust-%23323330?style=for-the-badge&logo=rust)
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js)
 ![NextJS](https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/docker-%23323330?style=for-the-badge&logo=docker)
 
 ## 📌 Pinned Projects
 [![Readme Card](https://grs.oriondev.fr/api/pin/?username=oriionn&repo=scolengo-token-tauri&hide_border=false&theme=dark)](https://github.com/oriionn/scolengo-token-tauri)
