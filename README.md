@@ -26,9 +26,12 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 ## 📌 Pinned Projects
 [![Readme Card](https://grs.oriondev.fr/api/pin/?username=oriionn&repo=scolengo-token-tauri&hide_border=false&theme=dark)](https://github.com/oriionn/scolengo-token-tauri)
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 ![](github-metrics.svg)
 ![Orion's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oriionn&theme=react-dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My Holopin
 [![An image of @oriionn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oriionn)](https://holopin.io/@oriionn)
