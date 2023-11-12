@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            826 Commits
+                            827 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.31306219618244" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.31306219618244" y="0" width="318.8744909644709" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="775.1875531606534" y="0" width="53.51223823575532" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="828.6997913964087" y="0" width="51.18324328690834" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="879.8830346833171" y="0" width="15.854870822582406" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="895.7379055058994" y="0" width="11.708910081873345" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="907.4468155877728" y="0" width="7.6208736641529695" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="915.0676892519257" y="0" width="4.932310748074338" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.2572352002813" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.2572352002813" y="0" width="318.83547870211225" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="775.0927139023935" y="0" width="53.618247492846464" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="828.71096139524" y="0" width="51.17698134319051" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="879.8879427384304" y="0" width="15.852931080151707" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="895.7408738185821" y="0" width="11.707477571324553" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="907.4483513899067" y="0" width="7.619941298814217" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="915.0682926887209" y="0" width="4.9317073112790135" height="8" fill="#fcb32c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>49.6%</div>
+                                <div>49.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>5.82%</div>
+                                <div>5.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MarikIshtar007/MarikIshtar007</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pystardust/ani-cli</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cli tool to browse and play anime</div>
@@ -2771,7 +2771,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.28333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.80000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2793,7 +2793,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 367 times</div>
+                                <div class="text">Repositories have been deployed 368 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3072,7 +3072,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.04m out of 46.4m repositories</span>
+                                    <span class="gh">ranked 3.17m out of 49.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
