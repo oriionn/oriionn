@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            831 Commits
+                            832 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.55034376279565" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.55034376279565" y="0" width="319.0403048432253" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="775.590648606021" y="0" width="53.06166692716056" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="828.6523155331815" y="0" width="51.20985843593128" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="879.8621739691129" y="0" width="15.86311531282147" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="895.7252892819342" y="0" width="11.714998683663943" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="907.4402879655983" y="0" width="7.624836497987462" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="915.0651244635857" y="0" width="4.9348755364143715" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.55197168827385" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.55197168827385" y="0" width="319.04144244797783" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="775.5934141362517" y="0" width="53.05857567770749" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="828.6519898139592" y="0" width="51.21004103536291" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="879.8620308493221" y="0" width="15.863171876067854" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="895.72520272539" y="0" width="11.71504045593527" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="907.4402431813253" y="0" width="7.624863685932389" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="915.0651068672577" y="0" width="4.934893132742417" height="8" fill="#fcb32c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/Terminal-Icons</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell module to show file and folder icons in the terminal</div>
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-gitea/gitea</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</div>
@@ -2762,7 +2762,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.38333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.89999999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2784,7 +2784,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 373 times</div>
+                                <div class="text">Repositories have been deployed 374 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2861,7 +2861,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.42m out of 122m users</span>
+                                    <span class="gh">ranked 1.42m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
@@ -3017,7 +3017,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 726k out of 122m users</span>
+                                    <span class="gh">ranked 726k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
@@ -3063,7 +3063,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.20m out of 44.5m repositories</span>
+                                    <span class="gh">ranked 3.14m out of 48.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
