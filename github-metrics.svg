@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.09901575536355" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.09901575536355" y="0" width="312.43565628724673" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="759.5346720426103" y="0" width="53.15023465435042" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="812.6849066969606" y="0" width="50.149731823599524" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="862.8346385205602" y="0" width="22.69116880214541" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="885.5258073227056" y="0" width="15.534723256853395" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="901.060530579559" y="0" width="11.472479328069129" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="912.5330099076282" y="0" width="7.466990092371872" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.9528296507982" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.9528296507982" y="0" width="312.333500500921" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="759.2863301517192" y="0" width="53.13285634331181" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="812.419186495031" y="0" width="50.1333345744848" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="862.5525210695158" y="0" width="22.984558136504166" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="885.53707920602" y="0" width="15.529643933038328" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="901.0667231390584" y="0" width="11.468728219246303" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="912.5354513583046" y="0" width="7.464548641695475" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>48.6%</div>
+                                <div>48.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -249,7 +249,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>2.47%</div>
+                                <div>2.5%</div>
                             </small>
                         </div>
                     </section>
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>33.96%</div>
+                                <div>33.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devblackops/Terminal-Icons</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PowerShell module to show file and folder icons in the terminal</div>
@@ -450,7 +450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rcmaehl/MSEdgeRedirect</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser</div>
@@ -2909,7 +2909,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.43m out of 125m users</span>
+                                    <span class="gh">ranked 1.43m out of 120m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
@@ -3065,7 +3065,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 688k out of 125m users</span>
+                                    <span class="gh">ranked 688k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -3111,7 +3111,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.37m out of 54.3m repositories</span>
+                                    <span class="gh">ranked 3.35m out of 44.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
