@@ -1,4 +1,5 @@
 ![Hi Orion](img/header.png)
+![](https://hit.yhype.me/github/profile?user_id=38093786)
 
 Je suis Orion, étudiant à un lycée dépendant de l'Académie de Strasbourg. Actuellement en seconde, je compte prendre NSI et Maths l'année prochaine, la dernière spé, je ne sais pas.
 
