@@ -35,7 +35,7 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 ![Orion's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oriionn&theme=react-dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -54,19 +54,19 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Daytime                196 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌃 Evening                368 commits         ██████████░░░░░░░░░░░░░░░   39.02 % 
+🌞 Morning                146 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌆 Daytime                194 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌃 Evening                369 commits         ██████████░░░░░░░░░░░░░░░   39.13 % 
 🌙 Night                  234 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 Tuesday                  143 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Friday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 Saturday                 166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 Sunday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 ```
@@ -117,7 +117,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/oriionn/oriionn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 18:39:10 UTC
+ Last Updated on 18/12/2023 18:40:56 UTC
 <!--END_SECTION:waka-->
 
 ## My Holopin
