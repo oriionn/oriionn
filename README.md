@@ -35,15 +35,13 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 ![Orion's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oriionn&theme=react-dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +52,21 @@ Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tau
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                194 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌆 Daytime                215 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌃 Evening                417 commits         ██████████░░░░░░░░░░░░░░░   39.30 % 
-🌙 Night                  235 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌞 Morning                195 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌆 Daytime                216 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌃 Evening                418 commits         ██████████░░░░░░░░░░░░░░░   39.29 % 
+🌙 Night                  235 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Thursday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Saturday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Sunday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Wednesday                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Thursday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Sunday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 ```
 
 
@@ -112,7 +110,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/oriionn/oriionn/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2024 18:39:43 UTC
+ Last Updated on 11/02/2024 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 ## My Holopin
