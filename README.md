@@ -7,7 +7,7 @@ Je touche à l'informatique depuis tout petit et je bricole souvent des projets.
 
 Je suis touche à tout, nous pouvons le voir avec mon projet [scolengo-token-tauri](https://github.com/oriionn/scolengo-token-tauri) qui a été fait sans trop de compétence en [Rust](https://www.rust-lang.org/fr).
 
-[![My birthday](https://dday-widget.minung.dev/widget?text=My%20birthday%20%F0%9F%8E%82&date=2023-11-11&startDate=2023-01-01&theme=theme3)](https://dday-widget.minung.dev)
+[![My birthday](https://dday-widget.minung.dev/widget?text=My%20birthday%20%F0%9F%8E%82&date=2024-11-11&startDate=2024-01-01&theme=theme3)](https://dday-widget.minung.dev)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
