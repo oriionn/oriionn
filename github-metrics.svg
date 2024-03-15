@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1134 Commits
+                            1135 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.245152306754" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.245152306754" y="0" width="308.89986996098827" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="752.1450222677423" y="0" width="49.582195012486046" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="801.7272172802284" y="0" width="32.72676847301978" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="834.4539857532482" y="0" width="28.661265636328068" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="863.1152513895762" y="0" width="26.03192285119164" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="889.1471742407679" y="0" width="19.379426217245705" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="908.5266004580136" y="0" width="11.47339954198649" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.43284886394997" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.43284886394997" y="0" width="308.6476865053813" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="752.0805353693312" y="0" width="49.54171649342287" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="801.6222518627541" y="0" width="32.700050593321684" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="834.3223024560757" y="0" width="28.687586238616504" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="863.0098886946922" y="0" width="26.010670591481926" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="889.0205592861741" y="0" width="19.515407966148466" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="908.5359672523226" y="0" width="11.464032747677306" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>48.18%</div>
+                                <div>48.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>33.58%</div>
+                                <div>33.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>5.39%</div>
+                                <div>5.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,7 +297,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>2.11%</div>
+                                <div>2.12%</div>
                             </small>
                         </div>
                     </section>
@@ -310,7 +310,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>3.56%</div>
+                                <div>3.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quasar/Quasar</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remote Administration Tool for Windows</div>
@@ -378,7 +378,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        930
+                                        931
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aishalih/sfwin</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SFWin — San Francisco Fonts for Windows 10 and non-Apple Platform.</div>
@@ -2967,7 +2967,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 990k out of 132m users</span>
+                                    <span class="gh">ranked 991k out of 132m users</span>
                                 </div>
                                 <div class="text">Published 40 public repositories</div>
                             </div>
@@ -3082,7 +3082,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 455k out of 132m users</span>
+                                    <span class="gh">ranked 456k out of 132m users</span>
                                 </div>
                                 <div class="text">Followed by 29 users</div>
                             </div>
@@ -3169,7 +3169,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.45m out of 73.6m repositories</span>
+                                    <span class="gh">ranked 3.45m out of 76.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3248,7 +3248,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.70m out of 73.6m repositories</span>
+                                    <span class="gh">ranked 2.70m out of 76.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
