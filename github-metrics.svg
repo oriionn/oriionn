@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1250 Commits
+                            1256 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.7804032010707" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.7804032010707" y="0" width="303.7428882134791" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="750.5232914145497" y="0" width="48.055589326046345" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="798.5788807405961" y="0" width="31.719131137941613" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="830.2980118785376" y="0" width="29.666876725315785" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="859.9648886038534" y="0" width="26.979962635585423" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="886.9448512394389" y="0" width="21.935008225747985" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="908.8798594651868" y="0" width="11.120140534813038" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.05428856018335" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.05428856018335" y="0" width="303.2492404245049" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="749.3035289846882" y="0" width="47.97748861541511" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="797.2810176001033" y="0" width="31.667580699850618" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="828.9485982999539" y="0" width="29.61866164384553" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="858.5672599437995" y="0" width="28.431313050890584" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="886.9985729946901" y="0" width="21.899359100346366" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="908.8979320950365" y="0" width="11.102067904963562" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>48.56%</div>
+                                <div>48.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>33.02%</div>
+                                <div>32.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -273,7 +273,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>2.93%</div>
+                                <div>3.09%</div>
                             </small>
                         </div>
                     </section>
@@ -286,7 +286,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>5.22%</div>
+                                <div>5.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -310,7 +310,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>3.45%</div>
+                                <div>3.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Floorp-Projects/Floorp</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Conobi/politiscales</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍👁️‍🗨️ Updated and multilingual PolitiScales</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/firefox</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦊 Soothing pastel theme for Firefox</div>
@@ -497,7 +497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robfig/cron</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a cron library for go</div>
@@ -518,7 +518,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        12.4k
+                                        12.5k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3132,7 +3132,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 184m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3170,7 +3170,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.74m out of 184m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
