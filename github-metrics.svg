@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1329 Commits
+                            1330 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.8253429957873" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.8253429957873" y="0" width="297.8672708708295" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="741.6926138666169" y="0" width="47.125999646709005" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="788.8186135133259" y="0" width="33.00138199123772" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="821.8199955045636" y="0" width="31.10555470787593" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="852.9255502124396" y="0" width="28.961679958830114" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="881.8872301712696" y="0" width="27.207737838395072" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="909.0949680096647" y="0" width="10.905031990335358" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.4874862971702" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.4874862971702" y="0" width="297.6405229972556" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="741.1280092944257" y="0" width="47.09012554688363" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="788.2181348413094" y="0" width="33.67659900957094" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="821.8947338508804" y="0" width="31.081875978871135" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="852.9766098297516" y="0" width="28.93963322866539" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="881.916243058417" y="0" width="27.187026275551748" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="909.1032693339687" y="0" width="10.8967306660313" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>48.24%</div>
+                                <div>48.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>32.38%</div>
+                                <div>32.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -310,7 +310,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>3.59%</div>
+                                <div>3.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -321,7 +321,7 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>1.19%</div>
+                                <div>1.18%</div>
                             </small>
                         </div>
                     </section>
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zigbee2mqtt/hassio-zigbee2mqtt</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Zigbee2MQTT Home Assistant add-on</div>
@@ -365,7 +365,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        966
+                                        967
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rbillon59/hass-n8n</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home assistant addon to host a n8n.io instance</div>
@@ -450,7 +450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>home-assistant/addons</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2803,7 +2803,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.27 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.58 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2825,7 +2825,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 617 times</div>
+                                <div class="text">Repositories have been deployed 618 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3142,7 +3142,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.49m out of 201m repositories</span>
+                                    <span class="gh">ranked 3.49m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3180,7 +3180,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.27m out of 201m repositories</span>
+                                    <span class="gh">ranked 2.27m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
