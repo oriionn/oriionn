@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1625 Commits
+                            1627 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.20717446350096" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.20717446350096" y="0" width="295.7413125663859" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="736.9484870298869" y="0" width="43.378461507483046" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="780.3269485373698" y="0" width="40.33709709084868" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="820.6640456282186" y="0" width="34.007520803024434" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="854.6715664312429" y="0" width="28.63198908627781" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="883.3035555175207" y="0" width="26.65859883513131" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="909.9621543526521" y="0" width="10.037845647347835" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.90066206509374" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.90066206509374" y="0" width="295.6774760535266" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="736.5781381186205" y="0" width="43.34832592255735" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="779.9264640411777" y="0" width="40.30907438158713" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="820.2355384227649" y="0" width="34.48141252626554" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="854.7169509490304" y="0" width="28.61209806873786" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="883.3290490177684" y="0" width="26.64007875762562" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="909.9691277753939" y="0" width="10.030872224606124" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>47.96%</div>
+                                <div>47.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -249,7 +249,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>3.7%</div>
+                                <div>3.75%</div>
                             </small>
                         </div>
                     </section>
@@ -262,7 +262,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>32.15%</div>
+                                <div>32.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>4.72%</div>
+                                <div>4.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>egoist/tsup</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The simplest and fastest way to bundle your TypeScript libraries.</div>
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>privatenumber/tsx</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js</div>
@@ -2902,7 +2902,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.33 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.64 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2924,7 +2924,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 743 times</div>
+                                <div class="text">Repositories have been deployed 744 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2998,7 +2998,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 794k out of 144m users</span>
+                                    <span class="gh">ranked 794k out of 146m users</span>
                                 </div>
                                 <div class="text">Published 48 public repositories</div>
                             </div>
@@ -3154,7 +3154,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 456k out of 144m users</span>
+                                    <span class="gh">ranked 456k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -3210,7 +3210,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.877877877877879 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.033033033033034 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3233,9 +3233,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 427k out of 210m repositories</span>
+                                    <span class="gh">ranked 423k out of 210m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 84 stars</div>
+                                <div class="text">Maintaining a repository with 85 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
