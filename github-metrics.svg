@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alandtse/alexa_media_player</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.</div>
@@ -2734,12 +2734,12 @@
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">PLAIN_TEXT</span>
+                                <span class="name">.env file</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">.env file</span>
+                                <span class="name">PLAIN_TEXT</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -3219,7 +3219,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 357k out of 210m repositories</span>
+                                    <span class="gh">ranked 357k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 108 stars</div>
                             </div>
@@ -3265,7 +3265,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.64m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.64m out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
