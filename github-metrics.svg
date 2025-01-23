@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiterateInk/inklang</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write once, transpile to anywhere.</div>
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TypeScript</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</div>
@@ -450,7 +450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>balena-io/etcher</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flash OS images to SD cards &amp; USB drives, safely and easily.</div>
@@ -2950,7 +2950,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.753753753753756 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="43.5985985985986 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2973,9 +2973,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 165k out of 213m repositories</span>
+                                    <span class="gh">ranked 165k out of 230m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 283 stars</div>
+                                <div class="text">Maintaining a repository with 282 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3184,7 +3184,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.69m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.69m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
