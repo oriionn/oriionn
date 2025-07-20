@@ -1,0 +1,24 @@
+name: WakaTime Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  wakatime-update:
+    name: Update README
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "chore: updated WakaTime"
+          BLOCKS: -#
+          TIME_RANGE: last_30_days
+          AUTHOR_NAME: Emilien X
+          AUTHOR_EMAIL: contact@oriondev.fr
+          SHOW_TITLE: true
+          LANG_COUNT: 6
+          CODE_LANG: plain
