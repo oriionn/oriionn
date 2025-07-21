@@ -4,6 +4,11 @@ I'm **Emilien (he/him)**! I'm a backend developer and high school student in **A
 ## Working at...
 - [@PapillonApp](https://github.com/PapillonApp)
 
+## Tech Stack
+<div>
+    <img src="https://github.com/oriionn/oriionn/blob/main/icons/javascript.png?raw=true" width="64" height="64" />
+</div>
+
 ## Some Wakatime stats
 <!--START_SECTION:waka-->
 
