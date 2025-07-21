@@ -6,8 +6,9 @@ I'm **Emilien (he/him)**! I'm a backend developer and high school student in **A
 
 ## Tech Stack
 <div>
-    <img src="https://github.com/oriionn/oriionn/blob/main/icons/javascript.png?raw=true" width="64" height="64" />
-    <img src="https://github.com/oriionn/oriionn/blob/main/icons/bun.png?raw=true" width="64" height="64" />
+    <img src="./icons/javascript.png" />
+    <img src="./icons/typescript.png" />
+    <img src="./icons/bun.png" />
 </div>
 
 ## Some Wakatime stats
