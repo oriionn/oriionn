@@ -7,4 +7,12 @@ I'm **Emilien (he/him)**! I'm a backend developer and high school student in **A
 ## Some Wakatime stats
 <!--START_SECTION:waka-->
 
+```plain
+From: 20 June 2025 - To: 20 July 2025
+
+TypeScript   1 hr 37 mins    ################---------   65.07 %
+HTML         52 mins         #########----------------   34.80 %
+jsonc        0 secs          -------------------------   00.12 %
+```
+
 <!--END_SECTION:waka-->
