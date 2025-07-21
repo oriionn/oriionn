@@ -5,7 +5,7 @@ I'm **Emilien (he/him)**! I'm a backend developer and high school student in **A
 - [@PapillonApp](https://github.com/PapillonApp)
 
 ## Tech Stack
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+<div>
     <img src="./icons/javascript.png" />
     <img src="./icons/typescript.png" />
     <img src="./icons/bun.png" />
