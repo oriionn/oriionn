@@ -36,7 +36,7 @@ I use Arch btw 🤓
 <!--START_SECTION:waka-->
 
 ```plain
-From: 20 June 2025 - To: 20 July 2025
+From: 21 June 2025 - To: 21 July 2025
 
 TypeScript   1 hr 37 mins    ################---------   65.07 %
 HTML         52 mins         #########----------------   34.80 %
