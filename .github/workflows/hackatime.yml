@@ -14,7 +14,7 @@ jobs:
             - uses: athul/waka-readme@master
               with:
                   WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
-                  API_BASE_URL: https://hackatime.hackclub.com/api/hackatime/v1
+                  API_BASE_URL: "https://hackatime.hackclub.com/api/hackatime/v1"
                   COMMIT_MESSAGE: "chore: updated WakaTime"
                   BLOCKS: -#
                   TIME_RANGE: last_30_days
