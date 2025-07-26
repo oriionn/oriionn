@@ -33,4 +33,5 @@ I use Arch btw 🤓
 </div>
 
 ## Some Wakatime stats
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

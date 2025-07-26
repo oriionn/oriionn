@@ -1,4 +1,4 @@
-name: Update README
+name: WakaTime Update
 
 on:
     workflow_dispatch:
@@ -6,28 +6,20 @@ on:
         - cron: "0 0 * * *"
 
 jobs:
-    readme-update:
+    wakatime-update:
         name: Update README
         runs-on: ubuntu-latest
 
         steps:
-            - uses: actions/checkout@master
-
-            - uses: charmbracelet/readme-scribe@master
-              env:
-                  GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+            - uses: athul/waka-readme@master
+              with:
                   WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
-                  WAKATIME_URL: https://hackatime.hackclub.com/api/hackatime/v1
-              with:
-                  template: "README.md.tpl"
-                  writeTo: "README.md"
-
-            - uses: stefanzweifel/git-auto-commit-action@v4
-              env:
-                  GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-              with:
-                  commit_message: Update generated README
-                  branch: main
-                  commit_user_name: Emilien X
-                  commit_user_email: contact@oriondev.fr
-                  commit_author: oriionn <contact@oriondev.fr>
+                  API_BASE_URL: https://hackatime.hackclub.com/api/hackatime/v1
+                  COMMIT_MESSAGE: "chore: updated WakaTime"
+                  BLOCKS: -#
+                  TIME_RANGE: last_30_days
+                  AUTHOR_NAME: Emilien X
+                  AUTHOR_EMAIL: contact@oriondev.fr
+                  SHOW_TITLE: true
+                  LANG_COUNT: 6
+                  CODE_LANG: plain
