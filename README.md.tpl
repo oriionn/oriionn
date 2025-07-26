@@ -33,14 +33,4 @@ I use Arch btw 🤓
 </div>
 
 ## Some Wakatime stats
-<!--START_SECTION:waka-->
-
-```plain
-From: 24 June 2025 - To: 24 July 2025
-
-TypeScript   1 hr 37 mins    ################---------   65.07 %
-HTML         52 mins         #########----------------   34.80 %
-jsonc        0 secs          -------------------------   00.12 %
-```
-
-<!--END_SECTION:waka-->
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
