@@ -19,10 +19,6 @@ I use Arch btw 🤓
     <img src="./icons/html.png" alt="HTML5" />
     <img src="./icons/css.png" alt="CSS" />
     <a href="https://www.python.org/"><img src="./icons/python.png" alt="Python" /></a>
-    <img src="./icons/c.png" alt="C" />
-    <a href="https://www.arduino.cc/"><img src="./icons/arduino.png" alt="Arduino (Electronics)" /></a>
-    <a href="https://www.rust-lang.org"><img src="./icons/rust.png" alt="Rust" /></a>
-    <a href="https://tauri.app/"><img src="./icons/tauri.png" alt="Tauri" /></a>
     <img src="./icons/shell.png" alt="Shell (Bash & zsh)" />
     <a href="https://git-scm.com/"><img src="./icons/git.png" alt="Git" /></a>
     <a href="https://github.com"><img src="./icons/github.png" alt="GitHub" /></a>
