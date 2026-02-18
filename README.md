@@ -1,6 +1,8 @@
 # Bonjour ! Hi!
 I'm **Orion**! I'm a backend developer and high school student in **Alsace (France)**, currently in "Terminale" (The equivalent of the 12th grade (or senior year) in the US's school system). More specifically, I'm in a general high school with [Maths](https://www.letudiant.fr/lycee/specialites-bac-general/article/presentation-et-programme-de-la-specialite-mathematiques-en-classe-de-premiere.html) and [Computer Science (NSI)](https://www.letudiant.fr/lycee/specialites-bac-general/article/la-specialite-nsi-en-un-clin-d-oeil.html) specialties, plus a [advanced mathematics](https://www.letudiant.fr/lycee/specialites-bac-general/article/maths-expertes-une-option-indispensable-pour-integrer-une-ecole-dingenieurs.html) option.
 
+Many of the repositories available here are actually mirrors of repositories from [my own ForgeJo instance](https://git.oriondev.fr).
+
 I use Arch btw 🤓
 
 ## Working at...
